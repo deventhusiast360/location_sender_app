@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "269447353282",
+    "project_id": "locationtrackingv2",
+    "storage_bucket": "locationtrackingv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269447353282:android:bd6ad351a5a6aa4377bc5b",
+        "android_client_info": {
+          "package_name": "com.example.location_sender_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269447353282-tjf8cahn7u83nsgmqr1kav4medufg736.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCS0D9R6bIJ5dvCD27PbcT1lKbNc1zUiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269447353282-tjf8cahn7u83nsgmqr1kav4medufg736.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "269447353282-00s22dn4e8plpefs6dfcms5bho6eljjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.locationV2.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269447353282:android:54ff08ca5e78277977bc5b",
+        "android_client_info": {
+          "package_name": "com.example.location_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269447353282-tjf8cahn7u83nsgmqr1kav4medufg736.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCS0D9R6bIJ5dvCD27PbcT1lKbNc1zUiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269447353282-tjf8cahn7u83nsgmqr1kav4medufg736.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "269447353282-00s22dn4e8plpefs6dfcms5bho6eljjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.locationV2.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269447353282:android:bc811fc29525697377bc5b",
+        "android_client_info": {
+          "package_name": "com.example.user_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269447353282-tjf8cahn7u83nsgmqr1kav4medufg736.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCS0D9R6bIJ5dvCD27PbcT1lKbNc1zUiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269447353282-tjf8cahn7u83nsgmqr1kav4medufg736.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "269447353282-00s22dn4e8plpefs6dfcms5bho6eljjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.locationV2.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
