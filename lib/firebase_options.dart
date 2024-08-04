@@ -52,6 +52,7 @@ class DefaultFirebaseOptions {
     }
   }
 
+// Don't worry following options have been deleted from the firebase cloud later I will put this in a .env. 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyDCS0D9R6bIJ5dvCD27PbcT1lKbNc1zUiI',
     appId: '1:269447353282:android:bd6ad351a5a6aa4377bc5b',
